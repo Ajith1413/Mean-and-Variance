@@ -1,4 +1,4 @@
-## EXPERIMENT NO:                                                                       
+# EXPERIMENT NO:                                                                       
 
 #  Mean and variance of a discrete  distribution
 
